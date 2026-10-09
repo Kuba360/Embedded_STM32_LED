@@ -1,0 +1,15 @@
+../Core/Src/main.c:80:5:main	8	static
+../Core/Src/main.c:128:6:SystemClock_Config	160	static
+../Core/Src/main.c:176:13:MX_ADC1_Init	48	static
+../Core/Src/main.c:242:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:277:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:328:7:StateMachine_Update	8	static
+../Core/Src/main.c:362:7:Turnoff_all	8	static
+../Core/Src/main.c:368:7:Turnon_all	8	static
+../Core/Src/main.c:374:7:Blinking	16	static
+../Core/Src/main.c:394:7:Wave	16	static
+../Core/Src/main.c:421:7:Joystick	8	static
+../Core/Src/main.c:437:7:Read_ADC	8	static
+../Core/Src/main.c:444:7:Read_SW	16	static
+../Core/Src/main.c:460:11:Read_Channel	48	static
+../Core/Src/main.c:484:6:Error_Handler	4	static,ignoring_inline_asm
