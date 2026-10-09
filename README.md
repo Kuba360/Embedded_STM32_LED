@@ -20,3 +20,4 @@ Firmware for the **NUCLEO-F303RE** board developed in **STM32CubeIDE** using **H
    - **Up** : Red LED
    - **Down** : Blue LED
 
+https://github.com/user-attachments/assets/5576c8cb-7b77-4a78-84bf-a878dcd675eb
